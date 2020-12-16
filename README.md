@@ -2,4 +2,4 @@
 
 LANDING PAGE:
 
-![](IMAGES/Landing.png)
+![](IMAGES/Landing.PNG)
