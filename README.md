@@ -3,3 +3,19 @@
 LANDING PAGE:
 
 ![](IMAGES/Landing.PNG)
+
+LOGIN PAGE:
+
+![](IMAGES/Login.PNG)
+
+REGISTER PAGE:
+
+![](IMAGES/REGISTER.png)
+
+TODO LIST:
+
+![](IMAGES/todo.png)
+
+USERS LIST:
+
+![](IMAGES/users.png)
