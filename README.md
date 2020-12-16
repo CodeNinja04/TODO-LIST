@@ -10,11 +10,11 @@ LOGIN PAGE:
 
 REGISTER PAGE:
 
-![](IMAGES/REGISTER.png)
+![](IMAGES/register.png)
 
 TODO LIST:
 
-![](IMAGES/todo.png)
+![](IMAGES/todo.PNG)
 
 USERS LIST:
 
